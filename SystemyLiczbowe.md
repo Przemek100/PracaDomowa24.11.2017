@@ -1,4 +1,4 @@
-            <h1>SYSTEMY LICZBOWE</h1>
+<h1>Systemy liczbowe</h1>
  ===============================================================           
 <h2>System liczbowy</h2> – zbiór reguł jednolitego zapisu i nazewnictwa liczb.
 <p>
@@ -11,13 +11,13 @@ W systemach liczbowych pozycyjnych liczbę przedstawia się jako ciąg cyfr. War
 położenia (pozycji) cyfry w liczbie.
 </p>
 <ul>
-  <li>Do systemów pozycyjnych zaliczamy m.in.</li>:
+  <li>Do systemów pozycyjnych zaliczamy m.in.:</li>
   <p>dziesiątkowy, dwójkowy, ósemkowy, szesnastkowy.</p>
-  <li>Do addytywnych systemów liczbowych zaliczamy m.in.</li>:
+  <li>Do addytywnych systemów liczbowych zaliczamy m.in.:</li>
  </ul>
 <p>rzymski, hieroglificzny, alfabetyczny, gdzie wartość liczby jest sumą wartości jej znaków cyfrowych.</p>
 
-<h1>Liczba</h1><p> – pojęcie abstrakcyjne, jedno z najczęściej używanych w matematyce.</p>
+<h3>Liczba</h3><p> – pojęcie abstrakcyjne, jedno z najczęściej używanych w matematyce.</p>
 <p>
 Określenie „liczba” bez żadnego przymiotnika jest nieścisłe, gdyż matematycy nie definiują „liczb”, lecz „liczby
 naturalne”, „liczby całkowite”, itp. Poszczególne rodzaje liczb są definiowane za pomocą aksjomatów lub
