@@ -14,8 +14,8 @@ położenia (pozycji) cyfry w liczbie.
     <p> Do systemów pozycyjnych zaliczamy m.in.:</p>
         <li>dziesiątkowy, dwójkowy, ósemkowy, szesnastkowy.</li>
    </ul>
+   <ul>
     <p>Do addytywnych systemów liczbowych zaliczamy m.in.:</p>
-      <ul>
        <li> rzymski, hieroglificzny, alfabetyczny, gdzie wartość liczby jest sumą wartości jej znaków cyfrowych.</li>
      </ul>
  <h3>Liczba</h3><p> – pojęcie abstrakcyjne, jedno z najczęściej używanych w matematyce.</p>
@@ -34,8 +34,20 @@ od ewentualnych fizycznych zastosowań.</p>
  <strong>System dwójkowy</strong> - zrewolucjonizował cały świat techniki, dając podstawę rozwoju wiodącej obecnie
 dziedzinie wiedzy jaką jest informatyka.
  <strong>Cyframi tego systemu są: 0 i 1.</strong>
-Symbolizują one dwa stany tzw.
-     0 - stan niski – (brak działania/brak sygnału)
-     1- stan wysoki – (działanie układu/sygnał)
+ </p>
+ <ul>
+  <p>Symbolizują one dwa stany tzw.</p>
+  <li>0 - stan niski – (brak działania/brak sygnału)</li>
+  <li> 1- stan wysoki – (działanie układu/sygnał)</li>
+ </ul>
+ <p>
 Podstawą systemu jest 2. Stąd też i nazwa układ dwójkowy. 
 </p>
+System dwójkowy (binarny)
+System dwójkowy - zrewolucjonizował cały świat techniki, dając podstawę rozwoju wiodącej obecnie
+dziedzinie wiedzy jaką jest informatyka.
+Cyframi tego systemu są: 0 i 1.
+Symbolizują one dwa stany tzw.
+0 - stan niski – (brak działania/brak sygnału)
+1- stan wysoki – (działanie układu/sygnał)
+Podstawą systemu jest 2. Stąd też i nazwa układ dwójkowy. 
