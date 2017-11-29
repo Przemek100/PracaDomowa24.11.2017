@@ -43,11 +43,4 @@ dziedzinie wiedzy jaką jest informatyka.
  <p>
 Podstawą systemu jest 2. Stąd też i nazwa układ dwójkowy. 
 </p>
-System dwójkowy (binarny)
-System dwójkowy - zrewolucjonizował cały świat techniki, dając podstawę rozwoju wiodącej obecnie
-dziedzinie wiedzy jaką jest informatyka.
-Cyframi tego systemu są: 0 i 1.
-Symbolizują one dwa stany tzw.
-0 - stan niski – (brak działania/brak sygnału)
-1- stan wysoki – (działanie układu/sygnał)
-Podstawą systemu jest 2. Stąd też i nazwa układ dwójkowy. 
+
