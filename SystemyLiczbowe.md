@@ -30,10 +30,10 @@ od ewentualnych fizycznych zastosowań.</p>
 -----------------------------------------------------------------------------------------------------------------
 <h2>System dwójkowy (binarny)</h2>
 
-<p>**System dwójkowy** - zrewolucjonizował cały świat techniki, dając podstawę rozwoju wiodącej obecnie
+<p>
+ <strong>System dwójkowy</strong> - zrewolucjonizował cały świat techniki, dając podstawę rozwoju wiodącej obecnie
 dziedzinie wiedzy jaką jest informatyka.
-**Cyframi tego systemu są: 0 i 1.**
- 
+ <strong>Cyframi tego systemu są: 0 i 1.</strong>
 Symbolizują one dwa stany tzw.
      0 - stan niski – (brak działania/brak sygnału)
      1- stan wysoki – (działanie układu/sygnał)
