@@ -10,12 +10,14 @@ Rozróżnia się systemy liczbowe **pozycyjne** i **niepozycyjne** (addytywne).
 W systemach liczbowych pozycyjnych liczbę przedstawia się jako ciąg cyfr. Wartość jej jest zależna od
 położenia (pozycji) cyfry w liczbie.
 </p>
-<ul>
-  Do systemów pozycyjnych zaliczamy m.in.:
-     dziesiątkowy, dwójkowy, ósemkowy, szesnastkowy.
-  Do addytywnych systemów liczbowych zaliczamy m.in.:
-     rzymski, hieroglificzny, alfabetyczny, gdzie wartość liczby jest sumą wartości jej znaków cyfrowych.
- </ul>
+    <ul>
+    <p> Do systemów pozycyjnych zaliczamy m.in.:</p>
+        <li>dziesiątkowy, dwójkowy, ósemkowy, szesnastkowy.</li>
+   </ul>
+    <p>Do addytywnych systemów liczbowych zaliczamy m.in.:</p>
+      <ul>
+       <li> rzymski, hieroglificzny, alfabetyczny, gdzie wartość liczby jest sumą wartości jej znaków cyfrowych.</li>
+     </ul>
  <h3>Liczba</h3><p> – pojęcie abstrakcyjne, jedno z najczęściej używanych w matematyce.</p>
  <p>
 Określenie „liczba” bez żadnego przymiotnika jest nieścisłe, gdyż matematycy nie definiują „liczb”, lecz „liczby
@@ -27,10 +29,13 @@ wielkości ciągłych (miary i wagi), obecnie w matematyce są rozważane jako t
 od ewentualnych fizycznych zastosowań.</p>
 -----------------------------------------------------------------------------------------------------------------
 <h2>System dwójkowy (binarny)</h2>
-System dwójkowy - zrewolucjonizował cały świat techniki, dając podstawę rozwoju wiodącej obecnie
+
+<p>**System dwójkowy** - zrewolucjonizował cały świat techniki, dając podstawę rozwoju wiodącej obecnie
 dziedzinie wiedzy jaką jest informatyka.
-Cyframi tego systemu są: 0 i 1.
+**Cyframi tego systemu są: 0 i 1.**
+ 
 Symbolizują one dwa stany tzw.
-0 - stan niski – (brak działania/brak sygnału)
-1- stan wysoki – (działanie układu/sygnał)
+     0 - stan niski – (brak działania/brak sygnału)
+     1- stan wysoki – (działanie układu/sygnał)
 Podstawą systemu jest 2. Stąd też i nazwa układ dwójkowy. 
+</p>
