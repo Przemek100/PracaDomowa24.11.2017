@@ -28,8 +28,9 @@ Pierwotnie liczby służyły do porównywania wielkości zbiorów przedmiotów (
 później także wielkości ciągłych (miary i wagi), obecnie w matematyce są rozważane jako twory abstrakcyjne,
 w oderwaniu od ewentualnych fizycznych zastosowań.
 </p>
----
-### System dwójkowy (binarny)
+--------
+
+###  System dwójkowy (binarny)
 
 System dwójkowy - zrewolucjonizował cały świat techniki, dając podstawę rozwoju wiodącej obecnie dziedzinie wiedzy jaką jest informatyka.
 
