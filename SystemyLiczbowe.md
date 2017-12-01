@@ -23,10 +23,11 @@ Do addytywnych systemów liczbowych zaliczamy m.in
 Określenie „liczba” bez żadnego przymiotnika jest nieścisłe, gdyż matematycy nie definiują „liczb”, lecz „liczby
 naturalne”, „liczby całkowite”, itp. Poszczególne rodzaje liczb są definiowane za pomocą aksjomatów lub
 konstruowane z bardziej podstawowych pojęć, takich jak zbiór, czy typy liczb prostsze od konstruowanego.
-
-Pierwotnie liczby służyły do porównywania wielkości zbiorów przedmiotów (liczby naturalne), później także
-wielkości ciągłych (miary i wagi), obecnie w matematyce są rozważane jako twory abstrakcyjne, w oderwaniu
-od ewentualnych fizycznych zastosowań.
+<p>
+Pierwotnie liczby służyły do porównywania wielkości zbiorów przedmiotów (liczby naturalne),
+później także wielkości ciągłych (miary i wagi), obecnie w matematyce są rozważane jako twory abstrakcyjne,
+w oderwaniu od ewentualnych fizycznych zastosowań.
+</p>
 ---
 ### System dwójkowy (binarny)
 
