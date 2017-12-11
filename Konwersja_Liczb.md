@@ -74,6 +74,7 @@ Otrzymujwynik zero koniec operacji. Teraz w tabelce wpisujemy 1 po tymi potęgam
  | 0 |0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1| 1 |
  
 >128 + 64 + 32 + 16 + 8 + 2 + 1 = 251(<sub>10</sub>)
+
  Konwersja liczb z systemu szesnastkowego na binarny
  -----------------------------------------------
  ##### Każdą cyfrę szesnastkową zastępujemy grupą 4 bitów wg tabelki konwersji. Grupy łączymy w jedną liczbę binarną, pomijamy skrajne zera z lewej strony.
